@@ -1,1 +1,1 @@
-web: bin/hubot -a hall -n Indybot
+web: bin/hubot -a hall -n "Indy Bot"
