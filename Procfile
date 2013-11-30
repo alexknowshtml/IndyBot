@@ -1,1 +1,1 @@
-web: bin/hubot -a hall -n "Indy Bot"
+web: bin/hubot --adapter slack
